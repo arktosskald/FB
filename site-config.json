@@ -1,0 +1,22 @@
+{
+  "version": "0.50 RC2",
+  "sites": 8,
+  "bestiary_records": 18,
+  "survival_articles": 7,
+  "diary_records": 8,
+  "social_server_config": "snorkgram-server.json",
+  "portal_module": "0.47 BETA1",
+  "portal_routes_041": 12,
+  "source_base": "0.36 BETA1",
+  "mandatory_core_0361_available": false,
+  "snorkgram_server_version_unchanged": true,
+  "offline_tools": "browser-local only",
+  "distribution_release": "0.50 RC2 (unified integration; native pending)",
+  "content_module": "fnb-content 0.47 BETA1",
+  "portal_source": "modules/fnb-content/source/content47.py",
+  "new_full_materials_047": 12,
+  "new_ru_en_pages_047": 24,
+  "search_index": "assets/fb47-index.js",
+  "content_source": "fb47-content.json",
+  "runtime_smoke": "NOT_RUN Windows/Anomaly/MO2"
+}

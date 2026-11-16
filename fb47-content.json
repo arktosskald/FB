@@ -1,0 +1,9 @@
+{
+  "schema": 1,
+  "version": "0.47 BETA1",
+  "source": "modules/fnb-content/source/content47.py",
+  "generated_articles": 12,
+  "legacy_records": 53,
+  "search_records": 65,
+  "search_index_sha256": "194094ff1da7b56e7b7f5c5d20ee58a204d51b18b23c8331bd01cc4371d2042d"
+}
